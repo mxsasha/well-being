@@ -15,5 +15,5 @@ around well-being, so feel free to
 [create an issue](https://github.com/mxsasha/well-being/issues) if you
 see something that might fit in here.
 
-If you organise or attend events, you may also be interested in Erik's
+If you organise or attend events, you may also be interested in Sasha's
 [Less Obvious Conference Checklist](https://github.com/mxsasha/lessobviouschecklist/).
